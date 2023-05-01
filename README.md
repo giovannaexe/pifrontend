@@ -1,47 +1,18 @@
-# Biblioteca Virtual - Site para Download de Livros
 
-Este é um projeto para um site de uma biblioteca virtual que disponibiliza livros para download. O site é uma plataforma para os usuários pesquisarem, encontrar e baixarem livros gratuitamente.
 
-## Funcionalidades
+# Catálogo de Viagens
 
-O site da biblioteca virtual possui diversas funcionalidades, tais como:
+Este é um site de catálogo de viagens onde você pode encontrar informações sobre destinos turísticos populares em todo o mundo. O site oferece aos usuários uma ampla variedade de recursos para ajudá-los a planejar suas viagens, incluindo fotos, vídeos, avaliações de hotéis, guias de viagem e dicas para economizar dinheiro.
 
-- Cadastro de usuários
-- Login de usuários
-- Busca por livros
-- Download de livros
-- Sugestões de livros relacionados
+## Recursos do Site
 
-## Tecnologias Utilizadas
 
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- React
+- Pesquisa por destino: os usuários podem pesquisar por destino e encontrar informações úteis sobre cada localidade, incluindo atrações turísticas, hotéis, restaurantes e atividades.
 
-## Instalação
+## Objetivo do Site
 
-Para rodar o projeto em sua máquina, siga as instruções abaixo:
+O objetivo deste site é fornecer informações úteis e abrangentes para viajantes em potencial, ajudando-os a planejar suas viagens com mais facilidade e economia. O site visa tornar o processo de planejamento de viagens mais agradável e menos estressante, fornecendo aos usuários informações confiáveis e precisas sobre destinos turísticos populares em todo o mundo.
 
-1. Clone o repositório: `git clone https://github.com/giovannaexe/pifrontend.git`
-2. Entre na pasta do projeto: `cd pifrontend`
-3. Instale as dependências: `npm install`
-4. Inicie o servidor: `npm start`
+## Conclusão
 
-O servidor irá iniciar na porta `3000`. Abra o navegador e acesse `http://localhost:3000`.
-
-## Contribuições
-
-Contribuições são sempre bem-vindas! Caso queira contribuir com o projeto, siga as etapas abaixo:
-
-1. Faça um fork do repositório
-2. Crie uma branch para sua contribuição: `git checkout -b minha-contribuicao`
-3. Faça as mudanças necessárias
-4. Faça um commit das mudanças: `git commit -m "Minha contribuição"`
-5. Envie suas mudanças para o seu fork: `git push origin minha-contribuicao`
-6. Crie um pull request para o repositório original
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
+O catálogo de viagens é um site completo para quem deseja planejar uma viagem de forma fácil e descomplicada. Com recursos úteis e informações precisas, os usuários podem pesquisar destinos turísticos, encontrar acomodações adequadas, restaurantes e atividades e economizar dinheiro em suas viagens. Se você está planejando uma viagem, o catálogo de viagens é o lugar certo para começar!
