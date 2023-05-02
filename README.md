@@ -4,10 +4,9 @@
 
 Este é um site de catálogo de viagens onde você pode encontrar informações sobre destinos turísticos populares em todo o mundo. O site oferece aos usuários uma ampla variedade de recursos para ajudá-los a planejar suas viagens, incluindo fotos, vídeos, avaliações de hotéis, guias de viagem e dicas para economizar dinheiro.
 
-## Recursos do Site
+## Recursos do Site (em desenvolvimento)
 
-
-- Pesquisa por destino: os usuários podem pesquisar por destino e encontrar informações úteis sobre cada localidade, incluindo atrações turísticas, hotéis, restaurantes e atividades.
+- Compra de pacote: os usuários podem escolher o destino e selecionar qual deseja adquirir.
 
 ## Objetivo do Site
 
